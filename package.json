@@ -1,7 +1,7 @@
 {
   "name": "server",
   "version": "1.0.0",
-  "description": "",
+  "description": "Authentication Server",
   "main": "index.js",
   "scripts": {
     "start": "node index.js",
@@ -13,8 +13,8 @@
     "testEnvironment": "node"
   },
   "keywords": [],
-  "author": "",
-  "license": "ISC",
+  "author": "Jeremy Lee",
+  "license": "MIT",
   "dependencies": {
     "bcrypt": "^3.0.2",
     "cors": "^2.8.4",
@@ -30,5 +30,13 @@
     "require-directory": "^2.1.1",
     "supertest": "^3.3.0",
     "swagger-ui-express": "^4.0.2"
-  }
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jeremy-401-advanced-javascript/Lab11.git"
+  },
+  "bugs": {
+    "url": "https://github.com/jeremy-401-advanced-javascript/Lab11/issues"
+  },
+  "homepage": "https://github.com/jeremy-401-advanced-javascript/Lab11#readme"
 }
