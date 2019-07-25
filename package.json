@@ -4,6 +4,7 @@
   "description": "Authentication Server",
   "main": "index.js",
   "scripts": {
+    "jsdoc": "jsdoc -c ./docs/config/jsdoc.config.json",
     "start": "node index.js",
     "watch": "nodemon index.js",
     "test-watch": "jest --watchAll",
@@ -22,6 +23,7 @@
     "dotenv": "^6.1.0",
     "express": "^4.16.3",
     "jest": "^23.6.0",
+    "jsdocs": "^1.0.0",
     "jsonwebtoken": "^8.4.0",
     "mongodb-memory-server": "^5.1.4",
     "mongoose": "^5.3.13",
