@@ -5,8 +5,8 @@
 ### Author: Jeremy Lee
 
 ### Links and Resources
-* [submission PR](http://xyz.com)
-* [travis](http://xyz.com)
+* [submission PR](https://github.com/jeremy-401-advanced-javascript/Lab11/pull/2)
+* [travis]([![Build Status](https://www.travis-ci.com/jeremy-401-advanced-javascript/Lab11.svg?branch=master)](https://www.travis-ci.com/jeremy-401-advanced-javascript/Lab11))
 * [Heroku](https://dashboard.heroku.com/apps/tranquil-dusk-98039) 
 
 
